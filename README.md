@@ -97,42 +97,46 @@ The Silver layer contains:
   * `output/silver/`
 
 ---
-
-3. Data Aggregation & Business Analytics – Gold Layer
+## 3. Data Aggregation & Business Analytics – Gold Layer
 
 The transformed Silver layer data was further processed in the Gold Layer to prepare reporting-ready datasets for Power BI analytics.
 
-Gold Layer Process
+### Gold Layer Process
 
-The dim_data and fact_data datasets were combined to create a consolidated dataset named:
+The `dim_data` and `fact_data` datasets were combined to create a consolidated dataset named:
 
-final_data_df
+* `final_data_df`
 
-Using this final_data_df, the following aggregated analytical datasets were generated for BI reporting:
+Using this `final_data_df`, the following aggregated analytical datasets were generated for BI reporting:
 
-hospital_revenue_summary
-insurance_summary
-monthly_trend
-patient_engagement_level
-Operations Performed
-Combining dimension and fact datasets
-Data aggregation
-Business-level calculations
-Analytical dataset preparation
-Reporting dataset creation
-Purpose of Gold Layer
+* `hospital_revenue_summary`
+* `insurance_summary`
+* `monthly_trend`
+* `patient_engagement_level`
+
+### Operations Performed
+
+* Combining dimension and fact datasets
+* Data aggregation
+* Business-level calculations
+* Analytical dataset preparation
+* Reporting dataset creation
+
+### Purpose of Gold Layer
 
 The Gold layer contains:
 
-Business-ready datasets
-Aggregated healthcare insights
-Power BI reporting datasets
-Dashboard-ready analytical data
-Output
+* Business-ready datasets
+* Aggregated healthcare insights
+* Power BI reporting datasets
+* Dashboard-ready analytical data
+
+### Output
 
 Final analytical datasets stored in:
 
-output/gold/
+* `output/gold/`
+
 
 ---
 
