@@ -106,7 +106,6 @@ The transformed Silver layer data was further processed in the **Gold Layer**.
 
 * Data aggregation
 * Business-level calculations
-* KPI generation
 * Analytical dataset preparation
 
 ### Purpose of Gold Layer
