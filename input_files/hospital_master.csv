@@ -1,0 +1,121 @@
+hospital_id,hospital_name,city,state,bed_count
+H3081,Rainbow Hospitals,Pune,Maharashtra,246
+H3499,Rainbow Hospitals,Chennai,Telangana,905
+H3334,Apollo Hospitals,Bangalore,Karnataka,1105
+H3204,AIIMS,,Gujarat,109
+H3221,Rainbow Hospitals,Pune,Karnataka,304
+H3173,AIIMS,Chennai,Maharashtra,1099
+H3354,Global Hospitals,Mumbai,Tamil Nadu,134
+H3074,Apollo Hospitals,Chennai,West Bengal,824
+H3428,Care Hospitals,Bangalore,Tamil Nadu,23
+H3346,AIIMS,,Maharashtra,570
+H3349,Care Hospitals,Mumbai,Telangana,741
+H3161,Manipal Hospitals,Pune,Gujarat,986
+H3197,AIIMS,,Gujarat,366
+H3139,Rainbow Hospitals,Hyderabad,Karnataka,1012
+H3347,AIIMS,Pune,Karnataka,590
+H3081,Manipal Hospitals,Kolkata,Gujarat,-3
+H3145,AIIMS,Hyderabad,Maharashtra,903
+H3390,Care Hospitals,Delhi,Karnataka,10
+H3427,Fortis Healthcare,Mumbai,Gujarat,60
+H3161,Rainbow Hospitals,Delhi,Tamil Nadu,356
+H3293,Care Hospitals,Chennai,Tamil Nadu,73
+H3033,Rainbow Hospitals,Bangalore,Maharashtra,418
+H3060,Apollo Hospitals,Kolkata,Telangana,92
+H3042,Care Hospitals,Bangalore,Telangana,304
+H3274,Apollo Hospitals,Hyderabad,Delhi,818
+H3478,Rainbow Hospitals,Kolkata,Maharashtra,1193
+H3421,Rainbow Hospitals,,Telangana,546
+H3386,AIIMS,Hyderabad,Tamil Nadu,134
+H3134,Rainbow Hospitals,,Telangana,741
+H3308,Fortis Healthcare,Hyderabad,Gujarat,574
+H3188,Apollo Hospitals,Ahmedabad,Tamil Nadu,506
+H3126,Rainbow Hospitals,Mumbai,Tamil Nadu,864
+H3347,Apollo Hospitals,Ahmedabad,Delhi,36
+H3240,Manipal Hospitals,Hyderabad,Karnataka,480
+H3273,AIIMS,,Maharashtra,171
+H3293,Manipal Hospitals,Chennai,Karnataka,756
+H3288,Apollo Hospitals,Mumbai,West Bengal,784
+H3376,Fortis Healthcare,Delhi,Maharashtra,439
+H3452,Care Hospitals,Mumbai,Maharashtra,1162
+H3191,Global Hospitals,Chennai,Maharashtra,658
+H3406,Manipal Hospitals,Bangalore,Karnataka,759
+H3084,Rainbow Hospitals,Pune,Telangana,383
+H3285,AIIMS,Bangalore,Telangana,21
+H3012,Rainbow Hospitals,Pune,Delhi,843
+H3448,AIIMS,Delhi,Maharashtra,298
+H3318,Fortis Healthcare,Mumbai,Gujarat,68
+H3008,AIIMS,Chennai,Delhi,598
+H3154,Rainbow Hospitals,Pune,Tamil Nadu,102
+H3074,Manipal Hospitals,Kolkata,West Bengal,1152
+H3392,Rainbow Hospitals,Pune,Telangana,218
+H3093,Manipal Hospitals,Pune,Gujarat,-1
+H3431,Apollo Hospitals,Kolkata,Maharashtra,864
+H3115,Manipal Hospitals,Ahmedabad,West Bengal,1031
+H3194,AIIMS,Kolkata,West Bengal,890
+H3028,Global Hospitals,Delhi,Delhi,400
+H3029,Care Hospitals,,Tamil Nadu,197
+H3199,Global Hospitals,Delhi,Maharashtra,279
+H3456,Global Hospitals,Pune,Karnataka,535
+H3081,Apollo Hospitals,Kolkata,Delhi,-8
+H3055,Rainbow Hospitals,Kolkata,West Bengal,719
+H3224,Fortis Healthcare,Kolkata,Tamil Nadu,705
+H3103,Global Hospitals,Hyderabad,Gujarat,165
+H3332,Apollo Hospitals,,Telangana,960
+H3101,Global Hospitals,Mumbai,Karnataka,986
+H3270,Apollo Hospitals,Ahmedabad,Gujarat,235
+H3030,Fortis Healthcare,Pune,Telangana,746
+H3337,Apollo Hospitals,Pune,Tamil Nadu,143
+H3251,Fortis Healthcare,Delhi,Telangana,847
+H3276,Manipal Hospitals,Kolkata,Telangana,297
+H3311,Rainbow Hospitals,Chennai,Delhi,828
+H3488,Manipal Hospitals,Delhi,West Bengal,720
+H3034,Rainbow Hospitals,Hyderabad,West Bengal,523
+H3037,Global Hospitals,Ahmedabad,Gujarat,-43
+H3399,AIIMS,Delhi,Delhi,352
+H3368,AIIMS,Pune,Karnataka,472
+H3081,Apollo Hospitals,Mumbai,Karnataka,1087
+H3442,Care Hospitals,,Karnataka,840
+H3362,Fortis Healthcare,Chennai,Delhi,32
+H3450,Manipal Hospitals,Hyderabad,Telangana,1027
+H3338,Care Hospitals,,Gujarat,455
+H3323,Apollo Hospitals,Pune,West Bengal,1131
+H3070,AIIMS,,Gujarat,917
+H3020,Apollo Hospitals,Ahmedabad,Karnataka,493
+H3377,Manipal Hospitals,,West Bengal,747
+H3004,Rainbow Hospitals,Chennai,Karnataka,328
+H3388,Apollo Hospitals,Pune,Telangana,657
+H3319,Manipal Hospitals,Mumbai,Gujarat,805
+H3059,AIIMS,Bangalore,Gujarat,1073
+H3349,Manipal Hospitals,Hyderabad,Gujarat,258
+H3064,Rainbow Hospitals,Chennai,Gujarat,15
+H3357,Fortis Healthcare,Hyderabad,Maharashtra,1028
+H3164,AIIMS,Bangalore,Tamil Nadu,94
+H3355,Fortis Healthcare,Pune,West Bengal,213
+H3415,Global Hospitals,Ahmedabad,Telangana,260
+H3202,Apollo Hospitals,,Maharashtra,417
+H3425,Fortis Healthcare,Bangalore,Delhi,533
+H3153,Apollo Hospitals,Hyderabad,Telangana,505
+H3461,Manipal Hospitals,Kolkata,Karnataka,165
+H3492,Care Hospitals,Delhi,Maharashtra,470
+H3452,Manipal Hospitals,Hyderabad,Karnataka,779
+H3000,AIIMS,Pune,Delhi,45
+H3315,Rainbow Hospitals,Kolkata,Gujarat,229
+H3333,AIIMS,Kolkata,Telangana,21
+H3088,Fortis Healthcare,Bangalore,Gujarat,535
+H3181,Rainbow Hospitals,Mumbai,Delhi,560
+H3247,AIIMS,Bangalore,Tamil Nadu,528
+H3266,Fortis Healthcare,Kolkata,Tamil Nadu,74
+H3302,Rainbow Hospitals,,West Bengal,952
+H3002,AIIMS,Bangalore,Tamil Nadu,680
+H3248,Manipal Hospitals,Bangalore,West Bengal,134
+H3358,Apollo Hospitals,Pune,Telangana,740
+H3331,AIIMS,Delhi,West Bengal,599
+H3394,AIIMS,,Tamil Nadu,583
+H3148,Global Hospitals,Hyderabad,Tamil Nadu,1156
+H3411,Fortis Healthcare,Kolkata,Telangana,630
+H3347,Fortis Healthcare,Hyderabad,Maharashtra,208
+H3362,Manipal Hospitals,Chennai,Gujarat,338
+H3499,Global Hospitals,Chennai,Telangana,1060
+H3130,Fortis Healthcare,Chennai,Gujarat,781
+H3301,Apollo Hospitals,,West Bengal,960
